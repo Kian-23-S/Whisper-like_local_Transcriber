@@ -39,6 +39,7 @@ api بخرید
  هوش مصنوعی 
  :)
 Cline Extension in VS Code 
+& Gap AI Code Agent
 
 
 پانویس 1:
